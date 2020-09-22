@@ -56,7 +56,7 @@ body{
 	position: relative;
 	height: 437px;
 	width: 863px;
-	background: url('../images/seikotuin.png')no-repeat;
+	background: url('seikotuin.png')no-repeat;
 	margin : 0 auto ;
 	display: inline-block;
 
